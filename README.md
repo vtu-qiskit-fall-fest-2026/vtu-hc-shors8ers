@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Shors8ers** · Team ID `VTU-QFF-HC-0091` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Shors8ers)
+[⬆ Back to Top](#shors8ers)
 
 </div>
